@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+.wrapper {
+  height: 200px;
+  width: 100%;
+  background-color: black;
+  border: 2px solid yellow;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input-area {
+  border: 2px solid yellow;
+  height: 50px;
+  width: 70%;
+  border-radius: 10px;
+  font-family: "Kanit", sans-serif;
+}
+.btn {
+  border: 2px solid yellow;
+  background-color: black;
+  color: white;
+  margin: 10px;
+  border-radius: 10px;
+  height: 50px;
+  width: 100px;
+  cursor: pointer;
+  font-family: "Kanit", sans-serif;
+}
